@@ -1,3 +1,1 @@
-# Video React Redux
-
-This is the starting code for React Redux lesson videos
+[demo](https://ernestofernandezua.github.io/react-redux-trainy/)

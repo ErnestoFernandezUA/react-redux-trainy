@@ -74,9 +74,9 @@ export const Position = () => {
             {position.x + position.y}
           </div>
 
-          <h2>Width: {Math.floor(widthFields / widthBox)}</h2>
+          <h2>Width: {Math.floor(widthFields / widthBox) - 1}</h2> 
 
-          <h2>Height: {Math.floor(heightFields / heightBox)}</h2>
+          <h2>Height: {Math.floor(heightFields / heightBox) - 1}</h2>
         </div>
         <button onClick={back}>back</button>
       </div>
